@@ -65,6 +65,7 @@ lag or FPS drops.
 
 ------------------------------------------------------------------------
 [ 4. COPYRIGHT & PERMISSION NOTICE ]
+
 Copyright (c) Mohamed Yehia (Discord: @.mohamedyehia). All Rights Reserved.
 This idea, software, and its unique features are proprietary and closed-source.
 Redistribution, modification, or integration into other projects or servers

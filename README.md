@@ -1,8 +1,10 @@
 # EuTranslator
 
-Join our Discord! https://discord.gg/uBbV4aew8N
-Join our SAMP! rp.eu-rp.com:7777
-Contact the Tool-Dev on DC! @.mohamedyehia
+[ Join our Discord! ] https://discord.gg/uBbV4aew8N
+-----------------------------------------------
+[ Join our SAMP! ] rp.eu-rp.com:7777
+-----------------------------------------------
+[ Contact the Tool-Dev on DC! ] @.mohamedyehia
 
 ========================================================================
                  EuTranslator v1.0 - Global Edition

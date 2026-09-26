@@ -7,8 +7,11 @@
 [ Contact the Tool-Dev on DC! ] @.mohamedyehia
 
 ========================================================================
-                 [EuTranslator v1.0 - Global Edition]
-        [Developed by: Mohamed Yehia | Discord: @.mohamedyehia]
+
+                 EuTranslator v1.0 - Global Edition
+                 
+        Developed by: Mohamed Yehia | Discord: @.mohamedyehia
+        
 ========================================================================
 
 [ ABOUT EUTRANSLATOR ]

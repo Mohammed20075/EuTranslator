@@ -1,9 +1,13 @@
 # EuTranslator
 
 [ Join our Discord! ] https://discord.gg/uBbV4aew8N
+
 -----------------------------------------------
+
 [ Join our SAMP! ] rp.eu-rp.com:7777
+
 -----------------------------------------------
+
 [ Contact the Tool-Dev on DC! ] @.mohamedyehia
 
 ========================================================================
@@ -14,7 +18,8 @@
         
 ========================================================================
 
-[ ABOUT EUTRANSLATOR ]
+# [ ABOUT EUTRANSLATOR ]
+
 EuTranslator is a real-time, in-game smart translator designed for SA-MP.
 It allows players from all over the world (Russia, Brazil, Indonesia,
 Balkans, India, Punjab, Arab/North Africa, Amazigh, Europe, and Asia)
@@ -22,13 +27,15 @@ to play, roleplay, and communicate seamlessly in any language without
 lag or FPS drops.
 
 ------------------------------------------------------------------------
-[ 1. REQUIREMENTS ]
+# [ 1. REQUIREMENTS ]
+
 - GTA: San Andreas + SA-MP (or Server PC Launcher)
 - CLEO 4 & SAMPFUNCS
 - MoonLoader v.026.5-beta
 
 ------------------------------------------------------------------------
-[ 2. HOW TO INSTALL ]
+# [ 2. HOW TO INSTALL ]
+
 1. Open the downloaded ZIP archive.
 2. Copy the "moonloader" folder (which contains "EuTranslator.luac" and
    the required "lib" folder).
@@ -38,7 +45,7 @@ lag or FPS drops.
 5. Launch the game!
 
 ------------------------------------------------------------------------
-[ 3. HOW TO USE & COMMANDS ]
+# [ 3. HOW TO USE & COMMANDS ]
 
 * Open Settings Menu:
   Type "/trm" in chat OR press [Shift + 9]
@@ -64,7 +71,7 @@ lag or FPS drops.
   - [ESC]       : Close the Translator Menu
 
 ------------------------------------------------------------------------
-[ 4. COPYRIGHT & PERMISSION NOTICE ]
+# [ 4. COPYRIGHT & PERMISSION NOTICE ]
 
 Copyright (c) Mohamed Yehia (Discord: @.mohamedyehia). All Rights Reserved.
 This idea, software, and its unique features are proprietary and closed-source.
